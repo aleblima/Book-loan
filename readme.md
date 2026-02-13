@@ -1,16 +1,16 @@
-<img src="assets/header.gif" width="100%">
 <div align="center">
+<img src="assets/header.gif" width="100%">
 
+# Empréstimo de livros
 ![Java21](https://img.shields.io/badge/Java-21-red?style=plastic)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/POO-passing?style=plastic)
 </div>
 
-# Explicando o projeto
-O projeto é uma atividade do programa IRede voltado para a prática de 
-**Programação 
-Orientada a 
-Objetos (POO)** em Java.
+## Descrição
+  projeto para práticar os fundamentos de **POO** e concluir a atividade do 
+  programa IRede.
+
 
 ## ⚙️ Funcionalidades
 ### 🏗️ Entidades:

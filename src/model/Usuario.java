@@ -1,4 +1,6 @@
 package model;
 
-public class Usuario {
+public abstract class Usuario {
+    protected String name;
+    protected String email;
 }
