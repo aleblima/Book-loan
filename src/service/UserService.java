@@ -7,7 +7,7 @@ import java.time.LocalDate;
 
 public class UserService {
     static int contador = 0;
-    public  Aluno criarAluno(String nome, String email, String curso){
+    public Aluno criarAluno(String nome, String email, String curso){
         if(nome == null || email == null || curso == null){
             return null;
         }
@@ -17,7 +17,7 @@ public class UserService {
         String matricula = ano+curso+contador;
         return new Aluno(nome, email, curso, matricula);
     }
-    public  Professor criarProfessor(String nome, String email, String especialidade, String departamento){
+    public Professor criarProfessor(String nome, String email, String especialidade, String departamento){
         if (nome == null || email == null || especialidade == null || departamento == null){
             return null;
         }

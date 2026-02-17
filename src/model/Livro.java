@@ -22,4 +22,8 @@ public class Livro {
     public String getAutor() {
         return autor;
     }
+
+    public void setDisponivel(boolean disponivel){
+        this.disponivel = disponivel;
+    }
 }
